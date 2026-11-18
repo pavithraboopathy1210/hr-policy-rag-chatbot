@@ -2,3 +2,6 @@ pypdf
 openai
 pinecone
 dotenv
+valkey
+sentence-transformers
+numpy

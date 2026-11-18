@@ -22,7 +22,7 @@ let the user know that you cannot provide an answer based on the given context.
 """
 
     response = client.models.generate_content(
-        model="gemini-3.5-flash",
+        model="gemini-flash-lite-latest",
         contents=f"""
 {system_content}
 

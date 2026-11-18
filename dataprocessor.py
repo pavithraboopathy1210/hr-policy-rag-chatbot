@@ -3,7 +3,7 @@ from pdfreader import read_pdf
 from chunker import chunk_pages
 from vectorstore import store_in_pinecone
 
-pdf_path = r"C:\Users\Pavithra\Documents\HR-Policy.pdf"
+pdf_path = r"C:\Users\Pavithra\Downloads\DS1505-P Fundamentals Deep Learning (Lab Integrated) Updated 09.8.25-1.pdf"
 
 
 def run():
